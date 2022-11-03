@@ -7,3 +7,5 @@ Hoy hablaremos de su historia.
 
 Estoy empezando mi camino como desarrollador y espero lograr grandes
 cosas.
+
+hoy soy Becario.
